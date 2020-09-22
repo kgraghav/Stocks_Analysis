@@ -35,7 +35,7 @@ The files required as part of this assignment include: <br>
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here: [An Investing Newbie's Tryst with Data Science](https://medium.com/@kgraghav/an-investing-newbies-tryst-with-data-science-241737102a6a).
+The main findings of the analysis can be found at the post available here: [An Investing Newbie's Tryst with Data Science](https://medium.com/@kgraghav/an-investing-newbies-tryst-with-data-science-241737102a6a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
