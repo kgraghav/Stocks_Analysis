@@ -40,4 +40,5 @@ The main findings of the analysis can be found at the post available here: [An I
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Data obtained from [Yahoo Finance](https://finance.yahoo.com/)
+License file: LICENSSE (BSD-2)
 
