@@ -31,7 +31,7 @@ For this project, I was interested in using the stocks data from Yahoo Finance t
 ## File Descriptions <a name="files"></a>
 
 The files required as part of this assignment include: <br>
-1. Stocks_Analysis.ipynb - The main code of the assignment
+1. Stocks_Analysis_v2.ipynb - The main code of the assignment
 
 ## Results<a name="results"></a>
 
