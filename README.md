@@ -32,7 +32,7 @@ For this project, I was interested in using the stocks data from Yahoo Finance t
 
 The files required as part of this assignment include: <br>
 1. Stocks_Analysis_vX.X.ipynb - The main code </br>
-Recommendation: Apply 24w historical to atleast 6 weeks forward
+Currently using: 24w historical to atleast 6 weeks forward
 
 ## Results<a name="results"></a>
 
