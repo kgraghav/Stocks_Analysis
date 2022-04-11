@@ -32,6 +32,7 @@ For this project, I was interested in using the stocks data from Yahoo Finance t
 
 The files required as part of this assignment include: <br>
 1. Stocks_Analysis_vX.X.ipynb - The main code </br>
+2. view_robin_stocks_vX.X.ipynb - View Stock Holdings </br>
 
 ## Results<a name="results"></a>
 
